@@ -1,0 +1,23 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "Checkout the [pull requests[(/pulls) against this repo for examples of how Check Run Reporter could look in your project.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/check-run-reporter/example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/check-run-reporter/example/issues"
+  },
+  "homepage": "https://github.com/check-run-reporter/example#readme",
+  "private": true,
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
